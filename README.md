@@ -25,9 +25,9 @@
 ## 重点项目
 | 项目 | 项目介绍 |
 |---|---|
-| [my-neuro](https://github.com/The-Cooler/my-neuro) | 多模态 AI 虚拟主播与交互系统 |
+| [Agent_demo](https://github.com/The-Cooler/Agent_demo) | 最小React Agent实现 |
 | [zst](https://github.com/The-Cooler/zst) | 基于 LangGraph 的 RAG 知识库项目 |
-| [visio-diagram](https://github.com/The-Cooler/visio-diagram) | 图表与开发工具相关项目 |
+| [ds-web-plug](https://github.com/The-Cooler/ds-web-plug) | DeepSeek网页版提示词模板 |
 ## 贡献统计
 ![连续贡献记录](https://streak-stats.demolab.com?user=The-Cooler&theme=tokyonight)   
 ![GitHub 活动图](https://github-readme-activity-graph-six-gules.vercel.app/graph?username=The-Cooler&theme=tokyo-night&hide_border=true) 
